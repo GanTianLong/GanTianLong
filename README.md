@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GanTianLong
 - 👀 I’m interested in ...Go
 - 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...play
+- 💞️ I’m looking to collaborate on ...study
 - 📫 How to reach me ...QQ:812882794
 
 <!---
