@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		*{margin: 0;padding: 0;}
+		li{list-style: none;}
+		a{color: inherit;text-decoration: none;}
+
+	</style>
+</head>
+<body>
+
+	<div id="box">点击我</div>
+
+	<script type="text/javascript">
+		/*
+			number（数字类型）
+			string（字符串）
+				引号+字符
+				单双引号没区别
+			function函数
+			Object对象{}.array.element,(null)..
+			undefiend(未定义)
+			null
+		*/
+		console.log('数字'+typeof 1);
+		console.log('字符串'+typeof '1');
+		console.log('布尔值'+typeof true);
+		console.log('函数'+typeof function fn(){});
+		console.log('对象'+typeof []);
+		console.log('未定义'+typeof undefined);
+		console.log('null'+typeof null);
+
+		// var a;
+		// console.log(a);
+
+		// function fn(){}
+		// {a:1};
+		// [1,2,3,4];
+		// new Object();
+		
+
+		// box.onclick=function(){
+		// 	//this.innerHTML="我变了";//单双都可
+		// 	//this.innerHTML=true?"我变了":"我没变";
+		// }
+		/*
+		严格区分大小写
+		只能英文字符
+		关键字、保留字(new var for)
+		分号结束
+		*/
+		//var num;
+		//console.log(-10.055+10);//可能有一定的精度丢失；
+	</script>
+</body>
+</html>
